@@ -6,14 +6,14 @@ Now transitioning into Web3 security and actively participating in audit contest
 
 ---
 
-### CodeHawks First Flights
+## CodeHawks First Flights
 | Date    | Contest                                                                                            |Platform   | Findings        |Rank|
 | ---     |  ---                                                                                               | ---       | ---             |--- |
 | 2025-08 | [Last Man Standing](https://codehawks.cyfrin.io/c/2025-07-last-man-standing/results?t=leaderboard) | CodeHawks | 2H 2M 3L        |#5  |
 
 ---
 
-### Audit Contests
+## Audit Contests
 
 For detailed reports, please visit [Audits-Reports repo](https://github.com/osok17/Audits-Reports).
 
@@ -30,7 +30,7 @@ For detailed reports, please visit [Audits-Reports repo](https://github.com/osok
 
 ---
 
-### Contact
+## Contact
 I am always open to new opportunities, including job openings, private audits/security reviews, and collaborations. Feel free to reach out via:
 
 - Discord: [ybad](https://discord.com/users/1343539025142616084)
