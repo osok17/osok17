@@ -15,6 +15,8 @@ Now transitioning into Web3 security and actively participating in audit contest
 
 ### Audit Contests
 
+For detailed reports, please visit [Audits-Reports repo](https://github.com/osok17/Audits-Reports).
+
 | Date    | Contest                                                                                            |Platform   | Findings                     |Rank|
 | ---     |  ---                                                                                               | ---       | ---                          |--- |
 | 2025-09 | [GTE Perps & Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)              | Code4rena | 1H 1M                        |#118|
