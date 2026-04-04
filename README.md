@@ -6,6 +6,13 @@ Now transitioning into Web3 security and actively participating in audit contest
 
 ---
 
+### CodeHawks First Flights
+| Date    | Contest                                                                                            |Platform   | Findings        |Rank|
+| ---     |  ---                                                                                               | ---       | ---             |--- |
+| 2025-08 | [Last Man Standing](https://codehawks.cyfrin.io/c/2025-07-last-man-standing/results?t=leaderboard) | CodeHawks | 2H 2M 3L        |#5  |
+
+---
+
 ### Audit Contests
 
 | Date    | Contest                                                                                            |Platform   | Findings                     |Rank|
@@ -18,13 +25,6 @@ Now transitioning into Web3 security and actively participating in audit contest
 | 2026-01 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223)                                          | Sherlock  |Ended without valid H/M issues| —  |
 | 2026-01 | [VII-Finance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa/leaderboard)   | Cantina   | 1H                           |#22 |
 | 2026-01 | [OpenCover](https://audits.sherlock.xyz/contests/1222)                                             | Sherlock  |Ended without valid H/M issues| —  |
-
----
-
-### CodeHawks First Flights
-| Date    | Contest                                                                                            |Platform   | Findings        |Rank|
-| ---     |  ---                                                                                               | ---       | ---             |--- |
-| 2025-08 | [Last Man Standing](https://codehawks.cyfrin.io/c/2025-07-last-man-standing/results?t=leaderboard) | CodeHawks | 2H 2M 3L        |#5  |
 
 ---
 
