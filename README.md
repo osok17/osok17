@@ -15,7 +15,7 @@ Now transitioning into Web3 security and actively participating in audit contest
 
 ## Audit Contests
 
-For detailed reports, please visit [Audits-Reports repo](https://github.com/osok17/Audits-Reports).
+For detailed reports, please visit [Audits-Reports](https://github.com/osok17/Audits-Reports).
 
 | Date    | Contest                                                                                            |Platform   | Findings                     |Rank|
 | ---     |  ---                                                                                               | ---       | ---                          |--- |
