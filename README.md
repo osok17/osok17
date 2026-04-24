@@ -27,6 +27,7 @@ For detailed reports, please visit [Audit-Reports](https://github.com/osok17/Aud
 | 2026-01 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223)                                          | Sherlock  |Ended without valid H/M issues| —  |
 | 2026-01 | [VII-Finance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa/leaderboard)   | Cantina   | 1H                           |#22 |
 | 2026-01 | [OpenCover](https://audits.sherlock.xyz/contests/1222)                                             | Sherlock  |Ended without valid H/M issues| —  |
+| 2026-02 | [Olas](https://code4rena.com/audits/2026-01-olas)                                                  | Code4rena | 1H 1M                        |#46 |
 
 ---
 
