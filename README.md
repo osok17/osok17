@@ -19,11 +19,11 @@ For detailed reports, please visit [Audit-Reports](https://github.com/osok17/Aud
 
 | Date    | Contest                                                                                                   |Platform   | Findings                     |Rank|
 | ---     |  ---                                                                                                      | ---       | ---                          |--- |
-| 2025-09 | [GTE Perps & Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)                     | Code4rena | 1H 1M                        |#118|
+| 2025-09 | [GTE Perps & Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad)                     | Code4rena | 1H 1M                        |#95 |
 | 2025-10 | [Hybra Finance](https://code4rena.com/audits/2025-10-hybra-finance)                                       | Code4rena | 2M                           |#5  |
 | 2025-10 | [Covenant](https://code4rena.com/audits/2025-10-covenant)                                                 | Code4rena |Ended without valid H/M issues| —  |
-| 2025-11 | [Megapot](https://code4rena.com/audits/2025-11-megapot)                                                   | Code4rena | 1M                           |#83 |
-| 2025-12 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi)                                                   | Code4rena | 1H 1M                        |#20 |
+| 2025-11 | [Megapot](https://code4rena.com/audits/2025-11-megapot)                                                   | Code4rena | 1M                           |#26 |
+| 2025-12 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi)                                                   | Code4rena | 1H 1M                        |#8  |
 | 2026-01 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223)                                                 | Sherlock  |Ended without valid H/M issues| —  |
 | 2026-01 | [VII-Finance](https://cantina.xyz/competitions/eb93d215-e328-4d19-99ab-6c510acbb5aa/leaderboard)          | Cantina   | 1H                           |#22 |
 | 2026-01 | [OpenCover](https://audits.sherlock.xyz/contests/1222)                                                    | Sherlock  |Ended without valid H/M issues| —  |
